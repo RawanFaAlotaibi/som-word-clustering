@@ -1,0 +1,45 @@
+k = 2
+Purity = 0.6717
+Rand Index = 0.8262
+TP=17528  FP=9380  FN=0  TN=27048
+
+k = 3
+Purity = 0.8237
+Rand Index = 0.9346
+TP=17471  FP=3470  FN=57  TN=32958
+
+k = 4
+Purity = 0.9453
+Rand Index = 0.9638
+TP=16529  FP=952  FN=999  TN=35476
+
+k = 5
+Purity = 0.9422
+Rand Index = 0.8561
+TP=10752  FP=990  FN=6776  TN=35438
+
+k = 6
+Purity = 0.9392
+Rand Index = 0.8469
+TP=9917  FP=650  FN=7611  TN=35778
+
+k = 7
+Purity = 0.9422
+Rand Index = 0.7986
+TP=7268  FP=609  FN=10260  TN=35819
+
+k = 8
+Purity = 0.9514
+Rand Index = 0.8088
+TP=8017  FP=803  FN=9511  TN=35625
+
+k = 9
+Purity = 0.9574
+Rand Index = 0.8398
+TP=9473  FP=589  FN=8055  TN=35839
+
+k = 10
+Purity = 0.9422
+Rand Index = 0.7969
+TP=7133  FP=561  FN=10395  TN=35867
+

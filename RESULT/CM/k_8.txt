@@ -1,0 +1,10 @@
+k = 8
+Purity = 0.9514
+Rand Index = 0.8088
+TP=8017  FP=803  FN=9511  TN=35625
+
+                 C0     C1     C2     C3     C4     C5     C6     C7
+animals           0      0     50      0      0      0      0      0
+countries        65      0      0      0     47     49      0      0
+fruits            0      0      1     51      0      0      4      2
+veggies           0      1      1     10      0      0     48      0
