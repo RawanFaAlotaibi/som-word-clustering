@@ -136,7 +136,7 @@ The script generates evaluation summaries and plots in the `RESULT/` directory.
 
 **Rawan Alotaibi**  
 *Computer Science | Focused on Cybersecurity & SOC Operations*  
- [LinkedIn Profile][[(https://www.linkedin.com/in/rawan-alotaibi)](https://www.linkedin.com/in/rawan-alotaibi-](https://www.linkedin.com/in/rawan-alotaibi-077318431/)077318431/)
+ [LinkedIn Profile] www.linkedin.com/in/rawan-alotaibi-077318431
  
 
 It was prepared and written in collaboration with my teammates on the project
